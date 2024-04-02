@@ -1,0 +1,27 @@
+{
+  "name": "storageboy",
+  "version": "1.0.0",
+  "description": "Plugin that lets you use local storage, indexedDB and Cookie Storage.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahimnamehta/storeme.git"
+  },
+  "keywords": [
+    "storeme",
+    "localstorage",
+    "cookiestorage",
+    "indexedDB",
+    "browser",
+    "storage"
+  ],
+  "author": "Mahimna Mehta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mahimnamehta/storeme/issues"
+  },
+  "homepage": "https://github.com/mahimnamehta/storeme#readme"
+}
